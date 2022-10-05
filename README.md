@@ -1,0 +1,3 @@
+# TrollCoder
+
+Esercizio di programmazione 
